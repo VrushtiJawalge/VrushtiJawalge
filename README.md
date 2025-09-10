@@ -1,57 +1,58 @@
-# Hi there 👋, I'm Vrushti Jawalge
+# Hi there, I'm Vrushti 👋
 
-<img align="right" width="200" src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" />
-
-I'm a **Full-Stack Developer** passionate about building modern, responsive, and interactive web applications. I love solving problems, learning new technologies, and bringing ideas to life.
+I'm a **Full-Stack Developer** passionate about building responsive and modern web apps.
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **personal projects & portfolio websites**
-- 🌱 I’m currently learning **Advanced JavaScript, React, and Blockchain**
-- 👯 I’m looking to collaborate on **Open-Source Web Development Projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, C++, C**
-- 📫 How to reach me: **[Email Me](mailto:your_email@example.com)**
-- ⚡ Fun Fact: I love **coding**, **drawing**, and **experimenting with new tech**!
+- 💻 Learning and building projects in **HTML, CSS, JavaScript, React, Java**.
+- 🌱 Exploring **Node.js, Android Development, and Blockchain**.
+- 🎨 Love designing clean and professional UIs.
+- 💡 Always curious to learn new technologies and improve coding skills.
 
 ---
 
 ## 🛠️ Skills
 
-### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-### Tools & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
-### Other Skills
-- Responsive Web Design  
-- UI/UX Design  
-- Problem Solving  
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
 ---
 
-## 📂 Projects
+## 🏆 Projects
 
 | Project | Description | Link |
 |---------|-------------|------|
 | **Portfolio Website** | My personal portfolio showcasing skills & projects | [View](https://vrushtijawalge.github.io/portfolio/) |
 | **TastyBite** | Food ordering app UI project | [View](https://vrushtijawalge.github.io/TastyBite/) |
-| **Festive Vibe** | Festival celebration web project | [View]( https://vrushtijawalge.github.io/Festive_vibe/) |
+| **Festive Vibe** | Festival celebration web project | [View](https://vrushtijawalge.github.io/Festive_vibe/) |
 
 ---
 
-## 📫 Connect with Me
-
-Portfolio- https://vrushtijawalge.github.io/portfolio/
+## 🌟 GitHub Stats
+![Vrushti's GitHub stats](https://github-readme-stats.vercel.app/api?username=VrushtiJawalge&show_icons=true&theme=dark)
 
 ---
 
+## 👀 Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/VrushtiJawalge/count.svg)
 
+---
+
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/vrushtijawalge)
+- [GitHub](https://github.com/VrushtiJawalge)
+- [Instagram](https://instagram.com/vrushtijawalge)
+- Email: vrushti@example.com

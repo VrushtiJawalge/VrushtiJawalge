@@ -44,7 +44,7 @@ I'm a **Full-Stack Developer** passionate about building modern, responsive, and
 |---------|-------------|------|
 | **Portfolio Website** | My personal portfolio showcasing skills & projects | [View](https://vrushtijawalge.github.io/portfolio/) |
 | **TastyBite** | Food ordering app UI project | [View](https://vrushtijawalge.github.io/TastyBite/) |
-| **Festive Vibe** | Festival celebration web project | [View](https://vrushtijawalge.github.io/Festive_vibe/) |
+| **Festive Vibe** | Festival celebration web project | [View]( https://vrushtijawalge.github.io/Festive_vibe/) |
 
 ---
 

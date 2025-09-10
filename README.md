@@ -50,7 +50,5 @@ I'm a **Full-Stack Developer** passionate about building responsive and modern w
 ---
 
 ## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/vrushtijawalge)
 - [GitHub](https://github.com/VrushtiJawalge)
-- [Instagram](https://instagram.com/vrushtijawalge)
-- Email: vrushti@example.com
+- Email: jawalgevrushti@example.com

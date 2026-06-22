@@ -5,8 +5,8 @@ I'm a **Full-Stack Developer** passionate about building responsive and modern w
 ---
 
 ## 🚀 About Me
-- 💻 Learning and building projects in **HTML, CSS, JavaScript, React, Java**.
-- 🌱 Exploring **Node.js, Android Development, and Blockchain**.
+- 💻 Learning and building projects in **HTML, CSS, JavaScript.
+- 🌱 Exploring Android Development.
 - 🎨 Love designing clean and professional UIs.
 - 💡 Always curious to learn new technologies and improve coding skills.
 
